@@ -1,4 +1,4 @@
-package ro.sda.spring;
+package ro.sda.spring.lombok;
 import lombok.*;
 
 //@Data - este un shortcut ptr @EqualsAndHashCode, @Setter, @Getter, @ToString
